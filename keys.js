@@ -1,6 +1,6 @@
-exports.twitterKeys = {
-      consumer_key: '7zs8Brxg6gkBOc9DJBOcQujtB',
-      consumer_secret: 'GQyemXpJf3kgGat70wfhgU6H90WLPmq3aVfZQi2uxU2jQxgUhs',
-      access_token_key: '876776773966581760-DhSN3hXEY94MaOAgLvOwA2GpQfitMZx',
-      access_token_secret: '2fxaHdqXachi2xWb4pgIrMf8cWANcxMFCHqYn1LZ3tz2m'
-}
+module.exports = {
+      consumer_key: 'kTXJXtruuoYaa3C0uVBnr68zs',
+      consumer_secret: '0Dwknokn9lCQlVH9xFyECruJExBFLiR4pE65wdvvSnugu1xxLR',
+      access_token_key: '875390727076892672-h4dCc4S2TRBWB3thZe9qCbyausAyqOT',
+      access_token_secret: '8Rpy2oNjNTp5MMjfqjgxXtsmtAmNZTcedY9eVi62Lx04K',
+};
